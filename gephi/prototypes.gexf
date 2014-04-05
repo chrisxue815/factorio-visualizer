@@ -1,0 +1,2729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2014-04-07">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="image" title="image" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="cargo-wagon" label="cargo-wagon">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/cargo-wagon.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-185.58035" y="195.63708" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="iron-gear-wheel" label="iron-gear-wheel">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/iron-gear-wheel.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-223.36081" y="-200.40518" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="iron-plate" label="iron-plate">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/iron-plate.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="130.17303" y="151.01953" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="steel-plate" label="steel-plate">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/steel-plate.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="195.80017" y="-253.59431" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="wood" label="wood">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/wood.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-57.278687" y="252.53162" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="raw-wood" label="raw-wood">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/raw-wood.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-149.04184" y="478.3775" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="rocket-launcher" label="rocket-launcher">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/rocket-launcher.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="233.66937" y="368.23157" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="electronic-circuit" label="electronic-circuit">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/electronic-circuit.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="121.237305" y="-41.605316" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="logistic-chest-active-provider" label="logistic-chest-active-provider">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/logistic-chest-active-provider.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-270.88025" y="411.162" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="smart-chest" label="smart-chest">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/smart-chest.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-38.085022" y="400.34674" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="advanced-circuit" label="advanced-circuit">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/advanced-circuit.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="371.27075" y="335.99432" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="basic-bullet-magazine" label="basic-bullet-magazine">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/basic-bullet-magazine.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-349.77905" y="11.215179" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="small-pump" label="small-pump">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/small-pump.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-333.0848" y="75.96698" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="electric-engine-unit" label="electric-engine-unit">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/electric-engine-unit.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="412.81293" y="401.4961" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="pipe" label="pipe">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/pipe.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="151.15186" y="-479.02255" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="energy-shield-mk2-equipment" label="energy-shield-mk2-equipment">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/energy-shield-mk2-equipment.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-271.58325" y="308.27606" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="energy-shield-equipment" label="energy-shield-equipment">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/energy-shield-equipment.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="72.78491" y="294.91516" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="processing-unit" label="processing-unit">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/processing-unit.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-392.09293" y="198.13141" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="basic-electric-discharge-defense-remote" label="basic-electric-discharge-defense-remote">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/equipment/basic-electric-discharge-defense-equipment-ability.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-192.69827" y="-471.20044" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="chemical-plant" label="chemical-plant">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/chemical-plant.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-305.85516" y="-478.87982" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="fast-splitter" label="fast-splitter">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/fast-splitter.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="433.98267" y="46.012695" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="fast-transport-belt" label="fast-transport-belt">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/fast-transport-belt.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-404.82428" y="-127.50955" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="railgun" label="railgun">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/railgun.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="375.61108" y="376.8944" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="copper-plate" label="copper-plate">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/copper-plate.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="466.93378" y="85.328125" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="express-splitter" label="express-splitter">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/express-splitter.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-7.584503" y="-197.8078" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="express-transport-belt" label="express-transport-belt">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/express-transport-belt.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="495.38306" y="325.21997" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="iron-axe" label="iron-axe">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/iron-axe.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-453.70975" y="188.33679" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="iron-stick" label="iron-stick">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/iron-stick.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-406.93112" y="-412.89148" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="shotgun" label="shotgun">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/shotgun.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="7.004486" y="-277.76074" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="basic-exoskeleton-equipment" label="basic-exoskeleton-equipment">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/basic-exoskeleton-equipment.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="321.33997" y="-395.1322" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="roboport" label="roboport">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/roboport.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-240.97586" y="-220.7164" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="effectivity-module-3" label="effectivity-module-3">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/effectivity-module-3.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-222.95847" y="75.72998" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="effectivity-module-2" label="effectivity-module-2">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/effectivity-module-2.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="385.73505" y="65.412964" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="alien-artifact" label="alien-artifact">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/alien-artifact.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-58.73166" y="274.54437" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="effectivity-module" label="effectivity-module">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/effectivity-module.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="357.2697" y="-137.31229" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="effectivity-module-2" label="effectivity-module-2">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/effectivity-module-2.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-222.19424" y="-413.04782" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="speed-module-3" label="speed-module-3">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/speed-module-3.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-371.19617" y="-322.58374" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="speed-module-2" label="speed-module-2">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/speed-module-2.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="190.17633" y="225.91187" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="heavy-oil" label="heavy-oil">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/fluid/heavy-oil.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-131.89651" y="-159.0607" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="light-oil" label="light-oil">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/fluid/light-oil.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-201.25201" y="412.6114" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="petroleum-gas" label="petroleum-gas">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/fluid/petroleum-gas.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="274.26764" y="-354.6272" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="crude-oil" label="crude-oil">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/fluid/crude-oil.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="383.14935" y="-399.34448" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="oil-refinery" label="oil-refinery">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/oil-refinery.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-275.976" y="410.0921" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="stone-brick" label="stone-brick">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/stone-brick.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-249.72356" y="-98.48288" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="piercing-bullet-magazine" label="piercing-bullet-magazine">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/piercing-bullet-magazine.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="287.6015" y="469.4666" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="pipe-to-ground" label="pipe-to-ground">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/pipe-to-ground.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-265.53564" y="-270.40552" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="battery-equipment" label="battery-equipment">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/battery-equipment.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-6.883606" y="448.33026" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="battery" label="battery">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/battery.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="13.936523" y="-173.18399" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="logistic-chest-requester" label="logistic-chest-requester">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/logistic-chest-requester.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="86.57141" y="348.9001" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="speed-module-2" label="speed-module-2">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/speed-module-2.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="436.43292" y="249.58795" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="speed-module" label="speed-module">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/speed-module.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-66.01489" y="-88.66812" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="copper-cable" label="copper-cable">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/copper-cable.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-413.04166" y="-395.02063" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="combat-shotgun" label="combat-shotgun">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/combat-shotgun.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="142.82812" y="429.82745" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="express-transport-belt-to-ground" label="express-transport-belt-to-ground">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/express-transport-belt-to-ground.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="401.8797" y="-191.60696" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="fast-transport-belt-to-ground" label="fast-transport-belt-to-ground">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/fast-transport-belt-to-ground.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="441.86078" y="-292.8136" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="medium-electric-pole" label="medium-electric-pole">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/medium-electric-pole.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-263.8576" y="-98.42972" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="logistic-robot" label="logistic-robot">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/logistic-robot.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="351.62866" y="112.91974" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="flying-robot-frame" label="flying-robot-frame">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/flying-robot-frame.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-75.83789" y="17.630432" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="player-port" label="player-port">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/player-port.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-297.71255" y="-226.47897" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="smart-chest" label="smart-chest">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/smart-chest.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-460.00974" y="408.94714" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="steel-chest" label="steel-chest">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/steel-chest.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-388.9084" y="-231.78333" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="gun-turret" label="gun-turret">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/gun-turret.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-241.36185" y="-435.98553" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="steam-engine" label="steam-engine">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/steam-engine.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-381.2027" y="-170.5073" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="speed-module" label="speed-module">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/speed-module.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-52.014313" y="-168.94104" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="iron-gear-wheel" label="iron-gear-wheel">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/iron-gear-wheel.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="302.39185" y="454.92334" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="shotgun-shell" label="shotgun-shell">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/shotgun-shell.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="379.4879" y="-360.99683" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="productivity-module" label="productivity-module">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/productivity-module.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-169.02234" y="-474.6974" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="basic-armor" label="basic-armor">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/basic-armor.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="235.93335" y="360.4897" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="diesel-locomotive" label="diesel-locomotive">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/diesel-locomotive.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-387.698" y="493.80615" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="engine-unit" label="engine-unit">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/engine-unit.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="415.79553" y="97.02539" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="explosives" label="explosives">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/explosives.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="389.33783" y="-38.111603" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="sulfur" label="sulfur">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/sulfur.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-13.739655" y="182.90686" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="coal" label="coal">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/coal.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-110.51404" y="-10.1545105" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="water" label="water">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/fluid/water.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-479.2024" y="2.4406738" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="copper-plate" label="copper-plate">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/copper-plate.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="403.3813" y="-196.54877" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="copper-ore" label="copper-ore">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/copper-ore.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-27.811829" y="-205.9281" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="land-mine" label="land-mine">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/land-mine.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="475.95148" y="-347.1989" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="battery" label="battery">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/battery.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="178.20416" y="475.38837" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="sulfuric-acid" label="sulfuric-acid">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/fluid/sulfuric-acid.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="229.2898" y="455.47327" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="solid-fuel" label="solid-fuel">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/solid-fuel.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-425.32037" y="164.56683" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="crude-oil-barrel" label="crude-oil-barrel">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/fluid/crude-oil-barrel.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-294.93274" y="-486.65405" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="empty-barrel" label="empty-barrel">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/fluid/empty-barrel.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="199.49902" y="-3.3182373" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="basic-grenade" label="basic-grenade">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/basic-grenade.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="13.625366" y="30.882324" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="boiler" label="boiler">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/boiler.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-388.9315" y="37.395508" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="stone-furnace" label="stone-furnace">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/stone-furnace.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="7.551605" y="382.4256" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="express-transport-belt" label="express-transport-belt">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/express-transport-belt.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-83.87488" y="-418.09537" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="lubricant" label="lubricant">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/fluid/lubricant.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-340.5429" y="77.01959" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="engine-unit" label="engine-unit">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/engine-unit.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-295.72247" y="-106.38617" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="burner-inserter" label="burner-inserter">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/burner-inserter.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="316.8382" y="151.4986" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="flying-robot-frame" label="flying-robot-frame">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/flying-robot-frame.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="320.46136" y="484.86493" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="pumpjack" label="pumpjack">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/pumpjack.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-468.68237" y="286.06702" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="railgun-dart" label="railgun-dart">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/railgun-ammo.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-428.4692" y="371.14636" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="offshore-pump" label="offshore-pump">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/offshore-pump.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="215.22595" y="281.31458" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="explosive-rocket" label="explosive-rocket">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/explosive-rocket.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-340.50256" y="340.56305" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="rocket" label="rocket">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/rocket.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="465.3974" y="-338.40955" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="poison-capsule" label="poison-capsule">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/poison-capsule.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-138.53302" y="171.94531" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="empty-barrel" label="empty-barrel">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/fluid/empty-barrel.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-487.78162" y="76.88635" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="wooden-chest" label="wooden-chest">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/wooden-chest.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="235.11218" y="-92.169556" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="steel-plate" label="steel-plate">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/steel-plate.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-98.61871" y="-136.14575" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="curved-rail" label="curved-rail">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/curved-rail.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="418.56024" y="-257.35214" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="stone" label="stone">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/stone.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="196.45953" y="-403.6882" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="power-armor" label="power-armor">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/power-armor.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="414.8628" y="-178.20508" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="flame-thrower-ammo" label="flame-thrower-ammo">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/flame-thrower-ammo.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="202.33502" y="-293.43524" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="repair-pack" label="repair-pack">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/repair-pack.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="103.7536" y="263.88818" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="heavy-oil" label="heavy-oil">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/fluid/heavy-oil.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-47.32791" y="291.10242" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="light-oil" label="light-oil">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/fluid/light-oil.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="107.190186" y="16.328735" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="petroleum-gas" label="petroleum-gas">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/fluid/petroleum-gas.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="479.0468" y="27.697998" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="energy-shield-equipment" label="energy-shield-equipment">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/energy-shield-equipment.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-449.78696" y="-266.57907" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="destroyer-capsule" label="destroyer-capsule">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/destroyer-capsule.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-314.99567" y="-274.3258" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="distractor-capsule" label="distractor-capsule">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/distractor-capsule.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="204.94702" y="-273.36417" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="fusion-reactor-equipment" label="fusion-reactor-equipment">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/fusion-reactor-equipment.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="485.23096" y="407.06787" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="basic-modular-armor" label="basic-modular-armor">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/basic-modular-armor.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="483.10632" y="178.21149" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="stone-furnace" label="stone-furnace">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/stone-furnace.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-261.80804" y="-26.342407" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="rail-signal" label="rail-signal">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/rail-signal.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-248.84491" y="232.1347" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="pistol" label="pistol">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/pistol.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="399.99957" y="453.2917" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="fast-transport-belt-to-ground" label="fast-transport-belt-to-ground">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/fast-transport-belt-to-ground.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="482.31488" y="280.6501" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="basic-transport-belt-to-ground" label="basic-transport-belt-to-ground">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/basic-transport-belt-to-ground.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-242.0589" y="-461.31754" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="productivity-module-2" label="productivity-module-2">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/productivity-module-2.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-169.10239" y="-250.20718" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="straight-rail" label="straight-rail">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/straight-rail.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-435.9915" y="-367.19128" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="sulfur" label="sulfur">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/sulfur.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="316.9837" y="-45.954376" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="productivity-module-3" label="productivity-module-3">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/productivity-module-3.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="381.93878" y="-102.70575" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="storage-tank" label="storage-tank">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/storage-tank.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="443.2531" y="138.06866" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="alien-science-pack" label="alien-science-pack">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/alien-science-pack.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="485.68384" y="-136.39175" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="iron-plate" label="iron-plate">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/iron-plate.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="230.81573" y="-347.4444" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="iron-ore" label="iron-ore">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/iron-ore.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="202.89722" y="11.658051" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="basic-transport-belt-to-ground" label="basic-transport-belt-to-ground">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/basic-transport-belt-to-ground.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-142.82257" y="321.61853" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="basic-transport-belt" label="basic-transport-belt">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/basic-transport-belt.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-316.0647" y="346.32343" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="solid-fuel" label="solid-fuel">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/solid-fuel.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-192.98276" y="450.708" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="defender-capsule" label="defender-capsule">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/defender-capsule.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-304.96228" y="409.70618" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="radar" label="radar">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/radar.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="205.23895" y="-403.07684" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="red-wire" label="red-wire">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/red-wire.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="183.76276" y="355.3468" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="battery-mk2-equipment" label="battery-mk2-equipment">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/battery-mk2-equipment.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="291.8006" y="177.67218" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="small-electric-pole" label="small-electric-pole">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/small-electric-pole.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="45.42108" y="-319.61395" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="big-electric-pole" label="big-electric-pole">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/big-electric-pole.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="319.11487" y="228.99133" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="rocket" label="rocket">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/rocket.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-268.83826" y="-37.375214" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="plastic-bar" label="plastic-bar">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/plastic-bar.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="505.35004" y="141.43439" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="advanced-circuit" label="advanced-circuit">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/advanced-circuit.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="81.53052" y="481.6646" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="power-armor-mk2" label="power-armor-mk2">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/power-armor-mk2.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="60.753662" y="-0.70370483" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="slowdown-capsule" label="slowdown-capsule">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/slowdown-capsule.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="43.734985" y="-83.21457" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="basic-inserter" label="basic-inserter">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/basic-inserter.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-280.84283" y="228.03394" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="laser-turret" label="laser-turret">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/laser-turret.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-263.48724" y="408.9447" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="basic-laser-defense-equipment" label="basic-laser-defense-equipment">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/basic-laser-defense-equipment.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-346.88983" y="-384.89853" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="electronic-circuit" label="electronic-circuit">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/electronic-circuit.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-336.58447" y="150.25824" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="small-lamp" label="small-lamp">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/small-lamp.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="128.63245" y="411.0172" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="electric-furnace" label="electric-furnace">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/electric-furnace.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-256.51544" y="321.55103" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="burner-mining-drill" label="burner-mining-drill">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/burner-mining-drill.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-235.64032" y="140.3313" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="fast-transport-belt" label="fast-transport-belt">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/fast-transport-belt.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="227.70758" y="-362.95996" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="electric-engine-unit" label="electric-engine-unit">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/electric-engine-unit.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-200.10123" y="-43.734985" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="sulfuric-acid" label="sulfuric-acid">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/fluid/sulfuric-acid.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="500.31036" y="-25.059143" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="stone-brick" label="stone-brick">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/stone-brick.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="349.49774" y="-141.85596" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="heavy-armor" label="heavy-armor">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/heavy-armor.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="225.85242" y="-426.23584" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="logistic-chest-storage" label="logistic-chest-storage">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/logistic-chest-storage.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="219.67346" y="-142.65051" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="piercing-shotgun-shell" label="piercing-shotgun-shell">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/piercing-shotgun-shell.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="296.25726" y="56.295776" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="wall" label="wall">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/wall.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="503.23083" y="225.36224" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="science-pack-1" label="science-pack-1">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/science-pack-1.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-443.67557" y="106.7298" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="car" label="car">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/car.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-172.85535" y="286.57733" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="science-pack-2" label="science-pack-2">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/science-pack-2.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="341.93353" y="-28.848083" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="fast-inserter" label="fast-inserter">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/fast-inserter.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-171.93472" y="-171.08249" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="flame-thrower" label="flame-thrower">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/flame-thrower.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="452.0636" y="77.54602" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="solar-panel" label="solar-panel">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/solar-panel.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="156.74884" y="96.875244" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="lab" label="lab">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/lab.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="293.91748" y="-21.27707" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="science-pack-3" label="science-pack-3">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/science-pack-3.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="71.49982" y="504.46582" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="smart-inserter" label="smart-inserter">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/smart-inserter.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-410.14798" y="-489.95132" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="pipe" label="pipe">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/pipe.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="470.7555" y="-340.32608" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="crude-oil" label="crude-oil">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/fluid/crude-oil.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="215.48224" y="-476.42603" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="empty-barrel" label="empty-barrel">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/fluid/empty-barrel.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="36.228638" y="27.329163" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="green-wire" label="green-wire">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/green-wire.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="450.23865" y="-188.85489" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="rocket-defense" label="rocket-defense">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/rocket-defense.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="10.564972" y="-426.05344" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="basic-transport-belt" label="basic-transport-belt">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/basic-transport-belt.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="164.823" y="-138.69846" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="train-stop" label="train-stop">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/train-stop.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="17.260986" y="35.920105" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="submachine-gun" label="submachine-gun">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/submachine-gun.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="244.4206" y="-91.756775" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="basic-electric-discharge-defense-equipment" label="basic-electric-discharge-defense-equipment">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/basic-electric-discharge-defense-equipment.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="245.62604" y="31.558838" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="distractor-capsule" label="distractor-capsule">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/distractor-capsule.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-147.80719" y="325.87604" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="iron-stick" label="iron-stick">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/iron-stick.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="269.8631" y="97.80615" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="deconstruction-planner" label="deconstruction-planner">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/deconstruction-planner.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-25.514679" y="-204.07837" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="steel-chest" label="steel-chest">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/steel-chest.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-251.12054" y="-125.91403" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="long-handed-inserter" label="long-handed-inserter">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/long-handed-inserter.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="57.35382" y="-163.69681" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="basic-mining-drill" label="basic-mining-drill">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/basic-mining-drill.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="262.22992" y="78.5686" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="night-vision-equipment" label="night-vision-equipment">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/night-vision-equipment.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="443.4218" y="214.49646" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="steel-furnace" label="steel-furnace">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/steel-furnace.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-422.36667" y="-373.74683" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="basic-beacon" label="basic-beacon">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/basic-beacon.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-251.25081" y="490.26062" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="basic-splitter" label="basic-splitter">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/basic-splitter.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-283.20892" y="223.61353" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="assembling-machine-1" label="assembling-machine-1">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/assembling-machine-1.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="281.3053" y="433.14166" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="substation" label="substation">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/substation.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="288.7774" y="41.156128" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="petroleum-gas" label="petroleum-gas">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/fluid/petroleum-gas.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="95.80255" y="342.36566" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="assembling-machine-2" label="assembling-machine-2">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/assembling-machine-2.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-305.9408" y="-386.909" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="assembling-machine-3" label="assembling-machine-3">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/assembling-machine-3.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="304.06293" y="360.21838" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="iron-chest" label="iron-chest">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/iron-chest.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-32.758545" y="-57.58258" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="logistic-chest-passive-provider" label="logistic-chest-passive-provider">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/logistic-chest-passive-provider.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-184.24866" y="-285.2692" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="solid-fuel" label="solid-fuel">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/solid-fuel.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="222.92566" y="-99.92227" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="basic-accumulator" label="basic-accumulator">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/basic-accumulator.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-228.77371" y="453.47064" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="steel-axe" label="steel-axe">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/steel-axe.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-103.39526" y="398.435" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="small-plane" label="small-plane">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/small-plane.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-453.58" y="-362.53705" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="lubricant" label="lubricant">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/fluid/lubricant.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="231.31012" y="492.1806" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="processing-unit" label="processing-unit">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/processing-unit.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="359.07678" y="152.74231" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="construction-robot" label="construction-robot">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/construction-robot.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-249.2373" y="-486.12012" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="smart-inserter" label="smart-inserter">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/smart-inserter.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="186.33936" y="266.763" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="blueprint" label="blueprint">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/blueprint.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-218.92914" y="-413.28314" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="light-oil" label="light-oil">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/fluid/light-oil.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-84.409546" y="-192.12704" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="solar-panel-equipment" label="solar-panel-equipment">
+        <attvalues>
+          <attvalue for="image" value="/data/base/graphics/icons/solar-panel-equipment.png"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="435.5569" y="373.59766" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="wood" target="shotgun">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="wood" target="combat-shotgun">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="wood" target="wooden-chest">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="wood" target="small-electric-pole">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="raw-wood" target="wood">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="effectivity-module-3" target="power-armor-mk2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="alien-artifact" target="effectivity-module-3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="alien-artifact" target="speed-module-3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="alien-artifact" target="power-armor">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="alien-artifact" target="fusion-reactor-equipment">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="alien-artifact" target="productivity-module-3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="alien-artifact" target="alien-science-pack">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="alien-artifact" target="power-armor-mk2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="effectivity-module" target="effectivity-module-2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="effectivity-module-2" target="effectivity-module-3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="speed-module-3" target="power-armor-mk2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="speed-module-3" target="rocket-defense">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="piercing-bullet-magazine" target="defender-capsule">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="battery-equipment" target="battery-mk2-equipment">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="speed-module-2" target="speed-module-3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="copper-cable" target="red-wire">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="copper-cable" target="small-electric-pole">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="copper-cable" target="advanced-circuit">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="copper-cable" target="electronic-circuit">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="copper-cable" target="green-wire">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="copper-cable" target="basic-beacon">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="smart-chest" target="logistic-chest-active-provider">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="smart-chest" target="logistic-chest-requester">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="smart-chest" target="logistic-chest-storage">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="smart-chest" target="logistic-chest-passive-provider">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="speed-module" target="speed-module-2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="speed-module" target="destroyer-capsule">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="speed-module" target="assembling-machine-3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="cargo-wagon">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="rocket-launcher">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="chemical-plant">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="fast-splitter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="express-splitter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="shotgun">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="roboport">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="oil-refinery">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="combat-shotgun">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="express-transport-belt-to-ground">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="player-port">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="gun-turret">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="steam-engine">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="express-transport-belt">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="engine-unit">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="burner-inserter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="pumpjack">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="offshore-pump">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="repair-pack">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="fast-transport-belt-to-ground">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="defender-capsule">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="radar">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="basic-inserter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="burner-mining-drill">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="fast-transport-belt">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="science-pack-1">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="flame-thrower">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="lab">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="basic-transport-belt">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="submachine-gun">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="long-handed-inserter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="basic-mining-drill">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="assembling-machine-1">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-gear-wheel" target="assembling-machine-2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="productivity-module" target="productivity-module-2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="explosives" target="land-mine">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="explosives" target="explosive-rocket">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="explosives" target="rocket">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="coal" target="explosives">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="coal" target="basic-grenade">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="coal" target="poison-capsule">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="coal" target="plastic-bar">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="coal" target="slowdown-capsule">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="water" target="explosives">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="water" target="heavy-oil">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="water" target="sulfur">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="water" target="sulfuric-acid">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="water" target="petroleum-gas">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="water" target="light-oil">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="copper-plate" target="railgun">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="copper-plate" target="shotgun">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="copper-plate" target="piercing-bullet-magazine">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="copper-plate" target="copper-cable">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="copper-plate" target="combat-shotgun">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="copper-plate" target="medium-electric-pole">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="copper-plate" target="gun-turret">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="copper-plate" target="shotgun-shell">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="copper-plate" target="battery">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="copper-plate" target="pistol">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="copper-plate" target="big-electric-pole">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="copper-plate" target="heavy-armor">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="copper-plate" target="piercing-shotgun-shell">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="copper-plate" target="science-pack-1">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="copper-plate" target="solar-panel">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="copper-plate" target="submachine-gun">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="copper-plate" target="substation">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="copper-ore" target="copper-plate">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="battery" target="battery-equipment">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="battery" target="flying-robot-frame">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="battery" target="laser-turret">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="battery" target="science-pack-3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="battery" target="basic-accumulator">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="battery" target="small-plane">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="crude-oil-barrel" target="crude-oil">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="crude-oil-barrel" target="empty-barrel">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="express-transport-belt" target="express-splitter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="engine-unit" target="diesel-locomotive">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="engine-unit" target="electric-engine-unit">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="engine-unit" target="car">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="flying-robot-frame" target="logistic-robot">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="flying-robot-frame" target="construction-robot">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="cargo-wagon">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="small-pump">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="chemical-plant">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="railgun">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="basic-exoskeleton-equipment">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="roboport">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="oil-refinery">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="piercing-bullet-magazine">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="battery-equipment">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="combat-shotgun">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="medium-electric-pole">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="diesel-locomotive">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="land-mine">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="engine-unit">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="flying-robot-frame">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="pumpjack">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="railgun-dart">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="poison-capsule">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="curved-rail">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="power-armor">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="energy-shield-equipment">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="basic-modular-armor">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="straight-rail">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="storage-tank">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="big-electric-pole">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="power-armor-mk2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="slowdown-capsule">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="laser-turret">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="basic-laser-defense-equipment">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="electric-furnace">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="heavy-armor">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="piercing-shotgun-shell">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="car">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="flame-thrower">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="solar-panel">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="science-pack-3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="empty-barrel">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="train-stop">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="basic-electric-discharge-defense-equipment">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="steel-chest">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="night-vision-equipment">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="steel-furnace">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="basic-beacon">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="substation">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="steel-axe">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-plate" target="solar-panel-equipment">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="stone" target="curved-rail">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="stone" target="stone-furnace">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="stone" target="straight-rail">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="stone" target="stone-brick">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="heavy-oil" target="flame-thrower-ammo">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="heavy-oil" target="solid-fuel">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="heavy-oil" target="lubricant">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="heavy-oil" target="light-oil">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="energy-shield-equipment" target="energy-shield-mk2-equipment">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="stone-furnace" target="boiler">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="stone-furnace" target="burner-mining-drill">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="fast-transport-belt-to-ground" target="express-transport-belt-to-ground">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="productivity-module-2" target="productivity-module-3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="sulfur" target="explosives">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="sulfur" target="sulfuric-acid">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="productivity-module-3" target="rocket-defense">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="cargo-wagon">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="rocket-launcher">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="basic-bullet-magazine">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="iron-axe">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="shotgun">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="pipe-to-ground">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="player-port">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="gun-turret">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="steam-engine">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="iron-gear-wheel">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="shotgun-shell">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="basic-armor">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="battery">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="basic-grenade">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="burner-inserter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="steel-plate">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="flame-thrower-ammo">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="rail-signal">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="pistol">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="storage-tank">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="basic-transport-belt-to-ground">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="radar">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="rocket">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="basic-inserter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="electronic-circuit">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="small-lamp">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="burner-mining-drill">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="sulfuric-acid">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="car">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="fast-inserter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="pipe">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="basic-transport-belt">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="train-stop">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="submachine-gun">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="iron-stick">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="long-handed-inserter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="basic-mining-drill">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="basic-splitter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="assembling-machine-1">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="assembling-machine-2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="iron-chest">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-plate" target="basic-accumulator">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-ore" target="iron-plate">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="basic-transport-belt-to-ground" target="fast-transport-belt-to-ground">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="defender-capsule" target="distractor-capsule">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="rocket" target="explosive-rocket">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="rocket" target="rocket-defense">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="plastic-bar" target="advanced-circuit">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="plastic-bar" target="small-plane">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="logistic-chest-active-provider">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="railgun">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="express-splitter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="roboport">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="effectivity-module-3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="effectivity-module">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="effectivity-module-2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="speed-module-3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="logistic-chest-requester">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="speed-module-2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="logistic-robot">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="speed-module">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="productivity-module">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="energy-shield-equipment">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="basic-modular-armor">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="productivity-module-2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="productivity-module-3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="electric-furnace">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="logistic-chest-storage">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="science-pack-3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="rocket-defense">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="distractor-capsule">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="deconstruction-planner">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="night-vision-equipment">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="basic-beacon">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="substation">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="logistic-chest-passive-provider">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="small-plane">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="processing-unit">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="advanced-circuit" target="blueprint">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="basic-inserter" target="science-pack-2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="basic-inserter" target="fast-inserter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="basic-inserter" target="long-handed-inserter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="laser-turret" target="basic-laser-defense-equipment">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="laser-turret" target="basic-electric-discharge-defense-equipment">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="rocket-launcher">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="basic-electric-discharge-defense-remote">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="chemical-plant">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="fast-splitter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="railgun">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="effectivity-module">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="oil-refinery">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="player-port">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="smart-chest">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="speed-module">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="productivity-module">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="diesel-locomotive">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="flying-robot-frame">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="pumpjack">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="railgun-dart">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="offshore-pump">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="poison-capsule">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="repair-pack">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="rail-signal">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="defender-capsule">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="radar">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="red-wire">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="rocket">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="advanced-circuit">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="slowdown-capsule">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="basic-inserter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="laser-turret">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="small-lamp">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="electric-engine-unit">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="fast-inserter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="solar-panel">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="lab">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="green-wire">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="train-stop">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="basic-mining-drill">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="basic-beacon">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="basic-splitter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="assembling-machine-1">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="assembling-machine-2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="processing-unit">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="construction-robot">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electronic-circuit" target="smart-inserter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="fast-transport-belt" target="fast-splitter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="fast-transport-belt" target="express-transport-belt">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electric-engine-unit" target="small-pump">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electric-engine-unit" target="basic-exoskeleton-equipment">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electric-engine-unit" target="flying-robot-frame">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electric-engine-unit" target="power-armor">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="electric-engine-unit" target="small-plane">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="sulfuric-acid" target="battery">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="sulfuric-acid" target="processing-unit">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="stone-brick" target="oil-refinery">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="stone-brick" target="electric-furnace">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="stone-brick" target="wall">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="stone-brick" target="steel-furnace">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="fast-inserter" target="smart-inserter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="solar-panel" target="solar-panel-equipment">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="pipe" target="small-pump">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="pipe" target="chemical-plant">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="pipe" target="oil-refinery">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="pipe" target="pipe-to-ground">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="pipe" target="steam-engine">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="pipe" target="boiler">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="pipe" target="engine-unit">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="pipe" target="pumpjack">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="pipe" target="offshore-pump">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="crude-oil" target="crude-oil-barrel">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="crude-oil" target="heavy-oil">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="crude-oil" target="petroleum-gas">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="crude-oil" target="light-oil">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="empty-barrel" target="crude-oil-barrel">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="basic-transport-belt" target="basic-transport-belt-to-ground">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="basic-transport-belt" target="fast-transport-belt">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="basic-transport-belt" target="science-pack-2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="basic-transport-belt" target="lab">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="basic-transport-belt" target="basic-splitter">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="distractor-capsule" target="destroyer-capsule">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-stick" target="iron-axe">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-stick" target="curved-rail">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-stick" target="straight-rail">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-stick" target="small-lamp">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iron-stick" target="steel-axe">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="steel-chest" target="smart-chest">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="assembling-machine-1" target="assembling-machine-2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="petroleum-gas" target="sulfur">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="petroleum-gas" target="plastic-bar">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="petroleum-gas" target="solid-fuel">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="assembling-machine-2" target="assembling-machine-3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="lubricant" target="express-transport-belt">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="lubricant" target="electric-engine-unit">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="processing-unit" target="energy-shield-mk2-equipment">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="processing-unit" target="basic-exoskeleton-equipment">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="processing-unit" target="effectivity-module-3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="processing-unit" target="effectivity-module-2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="processing-unit" target="speed-module-3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="processing-unit" target="speed-module-2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="processing-unit" target="power-armor">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="processing-unit" target="fusion-reactor-equipment">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="processing-unit" target="basic-modular-armor">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="processing-unit" target="productivity-module-2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="processing-unit" target="productivity-module-3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="processing-unit" target="battery-mk2-equipment">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="processing-unit" target="power-armor-mk2">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="processing-unit" target="basic-laser-defense-equipment">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="processing-unit" target="rocket-defense">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="processing-unit" target="basic-electric-discharge-defense-equipment">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="processing-unit" target="solar-panel-equipment">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="smart-inserter" target="science-pack-3">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="light-oil" target="flame-thrower-ammo">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="light-oil" target="petroleum-gas">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="light-oil" target="solid-fuel">
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
